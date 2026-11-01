@@ -1,0 +1,5 @@
+# Generated / cached files
+tools/kg_svg/
+
+# OS
+.DS_Store
